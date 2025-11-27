@@ -1,2 +1,2 @@
 # astra-linux-syte
-https:home/kabinet303/.cache/.fr-IZP2Tu/index.html
+https://home/kabinet303/.cache/.fr-IZP2Tu/index.html
